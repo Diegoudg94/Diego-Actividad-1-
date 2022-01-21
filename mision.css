@@ -1,0 +1,22 @@
+body{
+    background-color: black
+}
+*{
+    margin: 0px;
+    box-sizing: border-box ;
+    font-family: sans-serif;
+    }
+
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}

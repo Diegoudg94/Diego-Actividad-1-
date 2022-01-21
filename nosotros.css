@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+.compra {
+    display: flex;
+  justify-content: center;
+  }
+
+  .mision{
+    
+        padding: 10px;
+        margin: 10px;
+        display: flex;
+  justify-content: center;
+        
+      
+  }
+
+
+  .padre {
+    display: flex;
+    justify-content: center;
+  }
+  .hijo {
+    padding: 10px;
+    margin: 10px;
+   
+  }
+
+  .app{
+    padding: 10px;
+    margin: 10px;
+  }
+
+
+
+  body{
+    background-color: black
+}
+*{
+    margin: 0px;
+    box-sizing: border-box ;
+    font-family: sans-serif;
+    }
+
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
